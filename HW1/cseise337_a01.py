@@ -1,10 +1,3 @@
-"""
-CSE 337 / HW1
-Name: Taein Um
-Net ID: TUM
-Student ID: 112348159
-"""
-
 
 # Problem 1
 def is_chaotic(s):

@@ -1,8 +1,3 @@
-# CSE 337 Assignment 2
-# Taein Um
-# SBU_email: taein.um@stonybrook.edu
-# ID: 112348159
-
 # Calculate the total number of walls needed to contain the virus in a grid
 def contain_virus(grid)
   total_walls = 0

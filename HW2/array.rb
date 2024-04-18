@@ -1,8 +1,3 @@
-# CSE 337 Assignment 2
-# Taein Um
-# SBU_email: taein.um@stonybrook.edu
-# ID: 112348159
-
 class Array
   # Alias the original array indexing and map methods to preserve †he original functionality
   alias_method :original_brackets, :[]

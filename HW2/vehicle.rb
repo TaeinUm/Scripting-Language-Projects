@@ -1,8 +1,3 @@
-# CSE 337 Assignment 2
-# Taein Um
-# SBU_email: taein.um@stonybrook.edu
-# ID: 112348159
-
 class Vehicle
   @@number_of_vehicles = 0
 
