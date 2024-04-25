@@ -29,3 +29,10 @@ A simple and interactive application that calculates the miles per gallon based 
 - `Python` 3.x
 - `Tkinter` library for Python (should be included with Python installation)
 - `sqlite3` library for Python (should be included with Python installation)
+
+
+## Contact Information
+- Name: Taein Um
+- Email: taeindev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/taein-um-00b14916b/
+
