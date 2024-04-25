@@ -1,4 +1,5 @@
 # Python Scripting and GUI Applications
+#### Taein Um
 This repository contains the series of projects completed in Scripting Languages course at Stony Brook University.
 
 
@@ -10,8 +11,6 @@ This project covers a range of applications, from database operations to GUI app
 - Implementation of a database system using `sqlite3`.
 - Development of GUI applications using `Tkinter`.
 - Creation of user-friendly interfaces for interactive applications.
-
-
 
 ### Movie List Program
 An application that allows users to manage their movie collection with features to add, delete, and view movies. It includes advanced functionality like filtering movies by run time.
@@ -35,4 +34,3 @@ A simple and interactive application that calculates the miles per gallon based 
 - Name: Taein Um
 - Email: taeindev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/taein-um-00b14916b/
-
