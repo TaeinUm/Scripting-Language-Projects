@@ -13,7 +13,7 @@ This project covers a range of applications, from database operations to GUI app
 
 
 
-### Movie List Application
+### Movie List Program
 An application that allows users to manage their movie collection with features to add, delete, and view movies. It includes advanced functionality like filtering movies by run time.
 
 
