@@ -13,6 +13,7 @@ This directory contains the implementation for the Movie List application. This 
 - `db.py`: Contains all the database operations such as connecting to the SQLite database, and CRUD (Create, Read, Update, Delete) operations for movies.
 - `objects.py`: Defines the `Movie` and `Category` classes used to represent the data.
 - `ui.py`: Handles the user interface and interaction with the program.
+- `data.py`: Creates a sampele data to test the code.
 
 
 ## Getting Started
@@ -22,6 +23,7 @@ To run the Movie List program, make sure you have Python installed on your syste
 2. Run the program using Python:
 
 ```bash
+python3 data.py
 python3 ui.py
 ```
 
