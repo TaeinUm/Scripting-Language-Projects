@@ -1,6 +1,7 @@
 # Python Scripting and GUI Applications
 #### Taein Um
-This repository contains the series of projects completed in Scripting Languages course at Stony Brook University.
+
+
 
 
 ## Overview
