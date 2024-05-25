@@ -1,5 +1,5 @@
 
-# Problem 1
+# Part 1
 def is_chaotic(s):
     s = s.lower()  # Make it lower case
     d = {}         # Initialize a dictionary
@@ -20,7 +20,7 @@ def is_chaotic(s):
         return 'ELMA'
 
 
-# Problem 2
+# Part 2
 def is_balanced(s):
     o = {'(': 0, '{': 1, '[': 2}  # Opening
     c = {')': 0, '}': 1, ']': 2}  # Closing
@@ -40,7 +40,7 @@ def is_balanced(s):
     return True
 
 
-# Problem 3
+# Part 3
 def winning_function(l, f1, f2):
     count_f1 = 0  # Count the number of True from f1
     count_f2 = 0  # Count the number of True from f2
@@ -59,7 +59,7 @@ def winning_function(l, f1, f2):
         return 'TIE'
 
 
-# Problem 4
+# Part 4
 class FS_Item:
     def __init__(self, name):
         self.name = name
@@ -116,7 +116,7 @@ def load_fs(ls_output):
     return root
 
 
-# Problem 5
+# Part 5
 def decode(ct):
     plaintext = ""    # Initialize variables
     sum_previous = 0  # Sum of ordinal values of all previously decrypted letters
