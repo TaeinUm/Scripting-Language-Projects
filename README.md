@@ -1,7 +1,7 @@
 # Scripting Language Projects
 #### Taein Um
 
-This repository contains the projects for Scripting Languages, taught in Stony Brook University in Spring 2024. The repo focuses on the principles of scripting languages, highlighting their use in rapid development, automation, and composition of complex applications. It includes hands-on programming with Python, Ruby, and shell scripting, along with applications in system administration, web development, GUI development, and data processing.
+This repository contains the projects for Scripting Languages, taught in Stony Brook University. The repo focuses on the principles of scripting languages, highlighting their use in rapid development, automation, and composition of complex applications. It includes hands-on programming with Python, Ruby, and shell scripting, along with applications in system administration, web development, GUI development, and data processing.
 
 
 
